@@ -1,5 +1,5 @@
 # random-point-generator
-## Random Point Generator is a small utility script that creates a number of points with random values based on a template string. This is designed to be used as a mock data generator. Although this was originally designed to generate X,Y type data, nothing stops you from having complex template strings that might resemble polylines or polygons.
+Random Point Generator is a small utility script that creates a number of points with random values based on a template string. This is designed to be used as a mock data generator. Although this was originally designed to generate X,Y type data, nothing stops you from having complex template strings that might resemble polylines or polygons.
 
 ###Parameters:
 There are three options that can be passed at the prompt.
